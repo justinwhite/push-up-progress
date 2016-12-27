@@ -1,4 +1,4 @@
 # push-up-progress
-Simple android app built with MIT App Inventor 2.
+Simple android app built with [MIT App Inventor 2](http://appinventor.mit.edu/) that uses the phone's proximity sensor to implement hands free tracking of push up sets.
 
-Uses the phone's proximity sensor to implement hands free tracking of push up sets as well as a total push up count across all sets.
+<img src="screenshot.png" alt="Push Up Progress Screenshot" width="320px">
